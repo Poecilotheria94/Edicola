@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EdicolaRml/1.0.0": {
+        "runtime": {
+          "EdicolaRml.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EdicolaRml/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

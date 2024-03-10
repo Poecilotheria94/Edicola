@@ -1,0 +1,14 @@
+C:\Users\ramil\OneDrive\Desktop\C#_Midali\EdicolaRml\EdicolaRml\bin\Debug\net8.0\EdicolaRml.exe
+C:\Users\ramil\OneDrive\Desktop\C#_Midali\EdicolaRml\EdicolaRml\bin\Debug\net8.0\EdicolaRml.deps.json
+C:\Users\ramil\OneDrive\Desktop\C#_Midali\EdicolaRml\EdicolaRml\bin\Debug\net8.0\EdicolaRml.runtimeconfig.json
+C:\Users\ramil\OneDrive\Desktop\C#_Midali\EdicolaRml\EdicolaRml\bin\Debug\net8.0\EdicolaRml.dll
+C:\Users\ramil\OneDrive\Desktop\C#_Midali\EdicolaRml\EdicolaRml\bin\Debug\net8.0\EdicolaRml.pdb
+C:\Users\ramil\OneDrive\Desktop\C#_Midali\EdicolaRml\EdicolaRml\obj\Debug\net8.0\EdicolaRml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramil\OneDrive\Desktop\C#_Midali\EdicolaRml\EdicolaRml\obj\Debug\net8.0\EdicolaRml.AssemblyInfoInputs.cache
+C:\Users\ramil\OneDrive\Desktop\C#_Midali\EdicolaRml\EdicolaRml\obj\Debug\net8.0\EdicolaRml.AssemblyInfo.cs
+C:\Users\ramil\OneDrive\Desktop\C#_Midali\EdicolaRml\EdicolaRml\obj\Debug\net8.0\EdicolaRml.csproj.CoreCompileInputs.cache
+C:\Users\ramil\OneDrive\Desktop\C#_Midali\EdicolaRml\EdicolaRml\obj\Debug\net8.0\EdicolaRml.dll
+C:\Users\ramil\OneDrive\Desktop\C#_Midali\EdicolaRml\EdicolaRml\obj\Debug\net8.0\refint\EdicolaRml.dll
+C:\Users\ramil\OneDrive\Desktop\C#_Midali\EdicolaRml\EdicolaRml\obj\Debug\net8.0\EdicolaRml.pdb
+C:\Users\ramil\OneDrive\Desktop\C#_Midali\EdicolaRml\EdicolaRml\obj\Debug\net8.0\EdicolaRml.genruntimeconfig.cache
+C:\Users\ramil\OneDrive\Desktop\C#_Midali\EdicolaRml\EdicolaRml\obj\Debug\net8.0\ref\EdicolaRml.dll
